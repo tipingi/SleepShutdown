@@ -3,7 +3,7 @@
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net8.0-windows</TargetFramework>
 		<UseWindowsForms>true</UseWindowsForms>
-		<ApplicationIcon>icon.ico</ApplicationIcon>
+		<ApplicationIcon>Resources\icon.ico</ApplicationIcon>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>	
 	</PropertyGroup>
