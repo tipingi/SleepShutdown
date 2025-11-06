@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepShutdown.WinForms", "src\SleepShutdown.WinForms.csproj", "{C052911E-1940-58E5-D0E6-E7C02439F404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C052911E-1940-58E5-D0E6-E7C02439F404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C052911E-1940-58E5-D0E6-E7C02439F404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C052911E-1940-58E5-D0E6-E7C02439F404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C052911E-1940-58E5-D0E6-E7C02439F404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F74C76-7A6A-4CA8-8022-D2FD56AB08ED}
+	EndGlobalSection
+EndGlobal
